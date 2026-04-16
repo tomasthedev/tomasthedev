@@ -1,6 +1,6 @@
 ## Hi yall! I am Tomas, a young developer from Czech Republic.
 
-### Migrated to [codeberg](https://codeberg.org/tomasthedev)  [![DON'T upload to GitHub](https://no-github.bitbucket.io/badge.svg)](https://no-github.bitbucket.io)
+### Migrated to [codeberg](https://codeberg.org/tomasthedev)
 
 ### Learn more about me at [my website](https://tomasthedev.codeberg.page/)
 
